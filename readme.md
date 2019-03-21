@@ -1,3 +1,8 @@
+Generate new client_secret
+### php artisan passport:client
+
+Add it in routes/web.php
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
